@@ -14,7 +14,7 @@ This project demonstrates how to automate the secure shipping of system logs to 
     * Creating the `ship_logs.sh` script on the instance.
     * Setting up a cron job to run the script automatically.
 
-This flexibility allows you to choose the deployment method that best suits your needs and infrastructure.
+Choose the deployment method that best suits your needs and infrastructure.
 
 ## Features
 
